@@ -45,7 +45,7 @@ pip install streamlit opencv-python pillow scikit-image pandas numpy
 ## 使用範例
 
 1. **取得範本 get_template.py：**
-![alt text](image.png)
+![alt text](image-2.png)
 2. **捕捉高亮影片 main.py：**
 ![alt text](image-1.png)
 
